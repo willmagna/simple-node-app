@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:willmagna/simple-node-app.git",
+  "author": "William Magnabosco <williamlodea@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
